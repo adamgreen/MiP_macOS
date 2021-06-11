@@ -1,3 +1,6 @@
+# Archived - June 10th, 2021
+This project is no longer under active development.
+
 # MiP BLE Library for macOS
 ![MiP Photo](https://github.com/WowWeeLabs/MiP-BLE-Protocol/blob/master/Images/MiP.png)<br>
 This library will allow you to connect your Macintosh computer to the WowWee MiP over Bluetooth Low Energy and start:
